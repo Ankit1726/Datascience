@@ -1,0 +1,104 @@
+# ==============================
+# Jupyter & Development
+# ==============================
+jupyterlab
+notebook
+ipykernel
+ipywidgets
+
+# ==============================
+# Core Data Science
+# ==============================
+numpy
+pandas
+scipy
+
+# ==============================
+# Data Visualization
+# ==============================
+matplotlib
+seaborn
+
+
+# ==============================
+# Machine Learning
+# ==============================
+scikit-learn
+xgboost
+lightgbm
+catboost
+imbalanced-learn
+statsmodels
+
+# ==============================
+# Data Profiling & Feature Engineering
+# ==============================
+ydata-profiling
+feature-engine
+
+# ==============================
+# Model Explainability & Optimization
+# ==============================
+shap
+optuna
+
+# ==============================
+# Deep Learning (PyTorch)
+# ==============================
+torch
+torchvision
+torchaudio
+torchinfo
+torchmetrics
+tensorboard
+
+# ==============================
+# Computer Vision
+# ==============================
+opencv-python
+Pillow
+albumentations
+
+# ==============================
+# Natural Language Processing
+# ==============================
+nltk
+spacy
+gensim
+transformers
+datasets
+sentence-transformers
+
+# ==============================
+# Utilities
+# ==============================
+joblib
+requests
+python-dotenv
+tqdm
+
+# ==============================
+# Excel Support
+# ==============================
+openpyxl
+xlsxwriter
+
+# ==============================
+# PDF Processing
+# ==============================
+pypdf
+pdfplumber
+
+# ==============================
+# Web Scraping
+# ==============================
+beautifulsoup4
+lxml
+
+# ==============================
+# Dashboard & API
+# ==============================
+streamlit
+fastapi
+uvicorn
+pydantic
