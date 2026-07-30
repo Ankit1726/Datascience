@@ -214,6 +214,4 @@ Production AI Applications
 
 #### 🚀 Learn • Build • Share • Grow
 
-**Free LLM API: https://github.com/alistaitsacle/free-llm-api-keys**
-
 </div
