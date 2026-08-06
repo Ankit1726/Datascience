@@ -2,11 +2,11 @@
 
 <div align="center">
   
-- 🧠 16 GitHub Repositories Every AI/ML Engineer Should Know
+🧠 16 GitHub Repositories Every AI/ML Engineer Should Know
 
-- Your Complete Roadmap to Machine Learning, Deep Learning, LLMs, RAG, NLP & Agentic AI
+Your Complete Roadmap to Machine Learning, Deep Learning, LLMs, RAG, NLP & Agentic AI
 
--  A curated collection of the most valuable open-source repositories for aspiring AI/ML Engineers, Data Scientists, and Generative AI Developers.
+A curated collection of the most valuable open-source repositories for aspiring AI/ML Engineers, Data Scientists, and Generative AI Developers.
 
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-AI-blue)
 ![ML](https://img.shields.io/badge/Machine%20Learning-ML-green)
