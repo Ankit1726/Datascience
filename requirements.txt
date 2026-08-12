@@ -12,6 +12,7 @@ ipywidgets
 numpy
 pandas
 scipy
+kneed
 
 # ==============================
 # Data Visualization
