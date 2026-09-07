@@ -1,4 +1,4 @@
-## 🚀 AI/ML Learning Vault
+### ***AI/ML Learning Vault***
 
 <div align="center">
   
@@ -191,7 +191,7 @@ Production AI Applications
 
 ### **👨‍💻 Author: Ankit Gupta**
 
-**AI/ML Engineer | Python Developer | Generative AI & Agentic AI Enthusiast**
+**AI/ML Engineer | Generative AI & Agentic AI Developer**
 
 - 🚀 Building AI Applications  
 - 📚 Learning in Public  
@@ -212,6 +212,6 @@ Production AI Applications
 
 <div align="center">
 
-#### 🚀 Learn • Build • Share • Grow
+#### ***Learn • Build • Share • Grow***
 
 </div
