@@ -71,24 +71,7 @@ A curated collection of the most valuable open-source repositories for aspiring 
 - 25+ RAG techniques
 - Retrieval optimization methods
 - Production-ready implementations
-
----
-
-## 📊 Data Science & NLP
-
-### [Real-World Data Science Projects](https://github.com/krishnaik06/Complete-Data-Science-With-Machine-Learning-And-NLP-2025)
-
-- Industry-level projects
-- End-to-end ML pipelines
-- Portfolio-ready applications
-
-### [Awesome Natural Language Processing](https://github.com/keon/awesome-nlp)
-
-- NLP tools and libraries
-- Datasets and research papers
-- Comprehensive NLP resources
-
-
+  
 ---
 
 ## 🎯 Recommended Learning Path
