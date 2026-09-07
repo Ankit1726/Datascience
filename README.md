@@ -32,7 +32,7 @@ A curated collection of the most valuable open-source repositories for aspiring 
 - Well-documented implementations
 
 
-### [Workflow Of ML Pipelines](https://github.com/GokuMohandas/Made-With-ML)
+### [ML Workflows](https://github.com/GokuMohandas/Made-With-ML)
 
 - End-to-end ML workflows
 - Data collection to deployment
