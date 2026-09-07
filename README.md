@@ -24,11 +24,6 @@ A curated collection of the most valuable open-source repositories for aspiring 
 - Hands-on projects and exercises
 - Beginner-friendly learning path
 
-### [100 Days of ML Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
-
-- Daily Machine Learning roadmap
-- Practical coding exercises
-- Build consistency and problem-solving skills
 
 ### [Algorithms Implemented in Python](https://github.com/TheAlgorithms/Python)
 
@@ -36,14 +31,8 @@ A curated collection of the most valuable open-source repositories for aspiring 
 - Strong programming and DSA foundations
 - Well-documented implementations
 
-### [Mathematics for Machine Learning](https://github.com/mml-book/mml-book.github.io)
 
-- Linear Algebra
-- Calculus
-- Probability & Statistics
-- Essential mathematics for ML
-
-### [Made With ML](https://github.com/GokuMohandas/Made-With-ML)
+### [Workflow Of ML Pipelines](https://github.com/GokuMohandas/Made-With-ML)
 
 - End-to-end ML workflows
 - Data collection to deployment
