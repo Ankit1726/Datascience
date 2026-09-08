@@ -37,8 +37,6 @@
 - Production-ready ML practices
 
 ---
-  
----
 
 ## 🎯 Recommended Learning Path
 
