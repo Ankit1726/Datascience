@@ -58,7 +58,6 @@ Large Language Models
 Production AI Applications
 ```
 
----
 
 ## 📌 Topics Covered
 
