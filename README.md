@@ -2,21 +2,19 @@
 
 <div align="center">
   
-🧠 16 GitHub Repositories Every AI/ML Engineer Should Know
+***GitHub Repositories Every Data Scientist Should Know 🧠***
 
-Your Complete Roadmap to Machine Learning, Deep Learning, LLMs, RAG, NLP & Agentic AI
+***Your Complete Roadmap to Machine Learning, Deep Learning, Scikit-Learn, PyTorch***
 
-A curated collection of the most valuable open-source repositories for aspiring AI/ML Engineers, Data Scientists, and Generative AI Developers.
+***A curated collection of the most valuable open-source repositories for aspiring Data Scientists***
 
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-AI-blue)
-![ML](https://img.shields.io/badge/Machine%20Learning-ML-green)
-![LLM](https://img.shields.io/badge/Generative%20AI-LLMs-orange)
+![Datascience](https://img.shields.io/badge/Artificial%20Intelligence-AI-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ML-green)
+![Deep Learning](https://img.shields.io/badge/Generative%20AI-LLMs-orange)
 
 </div>
 
 ---
-
-## 📚 Machine Learning Foundations
 
 ### [Machine Learning for Beginners (Microsoft)](https://github.com/microsoft/ML-For-Beginners)
 
@@ -39,38 +37,6 @@ A curated collection of the most valuable open-source repositories for aspiring 
 - Production-ready ML practices
 
 ---
-
-## 🦾 Large Language Models & Agentic AI
-
-### [Hands-On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
-
-- Practical LLM applications
-- Embeddings, Fine-tuning & RAG
-- Modern Generative AI concepts
-
-### [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
-
-- Prompting frameworks
-- Advanced prompting techniques
-- Real-world examples
-
-### [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)
-
-- Agentic AI fundamentals
-- Multi-Agent systems
-- Hands-on AI Agent projects
-
-### [Generative AI Agent Techniques](https://github.com/NirDiamant/GenAI_Agents)
-
-- AI Agent architectures
-- Autonomous workflows
-- Advanced Agent design patterns
-
-### [RAG Techniques Repository](https://github.com/NirDiamant/RAG_Techniques)
-
-- 25+ RAG techniques
-- Retrieval optimization methods
-- Production-ready implementations
   
 ---
 
@@ -89,12 +55,6 @@ NLP & Computer Vision
    ↓
 Large Language Models
    ↓
-Prompt Engineering
-   ↓
-RAG Systems
-   ↓
-AI Agents
-   ↓
 Production AI Applications
 ```
 
@@ -109,11 +69,8 @@ Production AI Applications
 - Natural Language Processing (NLP)
 - Large Language Models (LLMs)
 - Prompt Engineering
-- Generative AI
-- Agentic AI
-- RAG (Retrieval-Augmented Generation)
 - Reinforcement Learning
-- MLOps
+
 
 ---
 
@@ -130,9 +87,9 @@ Production AI Applications
 
 ---
 
-### **👨‍💻 Author: Ankit Gupta**
+## ***👨‍💻 Author: Ankit Gupta***
 
-**AI/ML Engineer | Generative AI & Agentic AI Developer**
+***Datascience & Analysis***
 
 - 🚀 Building AI Applications  
 - 📚 Learning in Public  
@@ -140,12 +97,11 @@ Production AI Applications
 
 ---
 
-## ⭐ Support This Repository
+## ***⭐ Support This Repository***
 
 >If you found this repository useful:
 
 - Star ⭐ the repository
-- Fork 🍴 the repository
 - Share 📢 with fellow learners
 - Follow for more AI/ML content
 
